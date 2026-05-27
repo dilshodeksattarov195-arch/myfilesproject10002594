@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfync",
+        "uuid": 14183992,
+        "checksum": "rlmfbi"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
